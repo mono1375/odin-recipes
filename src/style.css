@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color:aquamarine;
+    padding: 10px;
+
+}
+header{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.cover-img{
+    width: 200px;
+    height: inherit;
+}
+.page-img{
+    width: 400px;
+    height: inherit;
+}
+
+.cover-img,.ingredients,.prep_steps {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: auto;
+}
